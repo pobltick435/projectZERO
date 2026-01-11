@@ -1,0 +1,9 @@
+.h1{
+    font-family: 'Courier New', monospace;
+    font-size: 96PX;
+}
+.nav-center {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
